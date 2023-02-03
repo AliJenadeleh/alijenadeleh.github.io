@@ -3,6 +3,6 @@
     "description":"Check flight tickets",
     "owner":"saedy",
     "isActive":false,
-    "hasMessage":true,
+    "hasMessage":false,
     "message":"error"
 }
