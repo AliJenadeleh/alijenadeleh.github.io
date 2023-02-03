@@ -2,7 +2,7 @@
     "name":"FlightTicketCheck",
     "description":"Check flight tickets",
     "owner":"saedy",
-    "isActive":true,
-    "hasMessage":false,
-    "message":null
+    "isActive":false,
+    "hasMessage":true,
+    "message":"error"
 }
