@@ -3,6 +3,6 @@
     "description":"jaygah system",
     "url":"https://ajweb.ir",
     "isActive":false,
-    "hasMessage":true,
+    "hasMessage":false,
     "message":"error"
 }
