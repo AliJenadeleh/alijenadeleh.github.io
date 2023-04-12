@@ -2,7 +2,7 @@
     "name":"Jaygah",
     "description":"jaygah system",
     "url":"https://ajweb.ir",
-    "isActive":false,
+    "isActive":true,
     "hasMessage":false,
     "message":"error"
 }
