@@ -1,7 +1,7 @@
 {
     "name":"Jaygah",
     "description":"jaygah system",
-    "owner":"aj",
+    "url":"https://ajweb.ir",
     "isActive":true,
     "hasMessage":false,
     "message":"error"
