@@ -3,6 +3,6 @@
     "description":"jaygah system",
     "url":"",
     "isActive":false,
-    "hasMessage":false,
+    "hasMessage":true,
     "message":"خطا"
 }
