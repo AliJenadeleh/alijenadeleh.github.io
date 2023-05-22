@@ -1,8 +1,8 @@
 {
     "name":"Jaygah",
     "description":"jaygah system",
-    "url":"https://ajweb.ir",
-    "isActive":true,
+    "url":"",
+    "isActive":false,
     "hasMessage":false,
     "message":"error"
 }
