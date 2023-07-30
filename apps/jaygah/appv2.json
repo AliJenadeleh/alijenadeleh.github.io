@@ -2,7 +2,7 @@
     "name":"Jaygah",
     "description":"jaygah system",
     "url":"",
-    "isActive":true,
+    "isActive":false,
     "hasMessage":false,
     "message":"خطا"
 }
