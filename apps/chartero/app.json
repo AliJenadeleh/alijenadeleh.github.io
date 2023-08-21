@@ -2,7 +2,7 @@
     "name":"CharterJo",
     "description":"Check flight tickets",
     "owner":"AliJenadeleh",
-    "isActive":false,
-    "hasMessage":true,
+    "isActive":true,
+    "hasMessage":false,
     "message":"خطا نسخه جدید را نصب کنید"
 }
