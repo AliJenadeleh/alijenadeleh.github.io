@@ -1,8 +1,8 @@
 {
-    "name":"FlightTicketCheck",
+    "name":"CharterJo",
     "description":"Check flight tickets",
-    "owner":"saedy",
+    "owner":"AliJenadeleh",
     "isActive":true,
     "hasMessage":false,
-    "message":"error"
+    "message":"خطا نسخه جدید را نصب کنید"
 }
