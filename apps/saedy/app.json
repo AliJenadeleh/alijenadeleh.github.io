@@ -1,8 +1,0 @@
-{
-    "name":"FlightTicketCheck",
-    "description":"Check flight tickets",
-    "owner":"saedy",
-    "isActive":true,
-    "hasMessage":false,
-    "message":"error"
-}
